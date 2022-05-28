@@ -1,0 +1,19 @@
+
+
+.myAlert {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10000;
+}
+
+.myCover {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    min-height: 100%;
+    min-width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 10001;
+}
