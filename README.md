@@ -12,8 +12,8 @@ Uses Socket.io for real time play and stores questions in Mongo DB Database.
 **Database:** Mongo DB
 
 ## Tech Stack
-live demo 
-![click here](https://renswer.herokuapp.com)
+live demo :
+https://renswer.herokuapp.com 
 
 ## Run Locally
 
