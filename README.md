@@ -11,6 +11,10 @@ Uses Socket.io for real time play and stores questions in Mongo DB Database.
 
 **Database:** Mongo DB
 
+## Tech Stack
+live demo 
+![click here](https://renswer.herokuapp.com)
+
 ## Run Locally
 
 Clone the project
@@ -67,7 +71,6 @@ nickName = `admin` , gameCode = `admin`
 
 # Features
 
-![](https://github.com/mohammadazhari/mern_game/blob/master/front_end/screenshots/1.png)
 ![](https://github.com/mohammadazhari/mern_game/blob/master/front_end/screenshots/2.png)
 ![](https://github.com/mohammadazhari/mern_game/blob/master/front_end/screenshots/3.png)
 ![](https://github.com/mohammadazhari/mern_game/blob/master/front_end/screenshots/4.png)
